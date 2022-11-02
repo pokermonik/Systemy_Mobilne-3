@@ -1,0 +1,7 @@
+<resources>
+    <string name="name_hint">wpisz nazwe zadania</string>
+    <string name="name_label">nazwa</string>
+    <string name="details_label">szczegoly</string>
+    <string name="done_label">wykonane</string>
+    <string name="app_name" />
+</resources>
